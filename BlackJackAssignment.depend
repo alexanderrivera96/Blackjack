@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579884502 source:c:\users\arivera\documents\galen\winter 2019\csci 156 - intro to programming\blackjackassignment\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
